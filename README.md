@@ -1,2 +1,30 @@
 # Magic-8-Ball
-A Magic 8 Ball on Python(In Inglish)
+
+---
+
+A decision simulator inspired by the classic “Magic 8 Ball” with hacker-style, obscure responses   
+
+---
+
+How to Use   
+
+When the program starts, type your question and press Enter.   
+The system will process your input and provide a random response instantly.   
+
+Responses are generated with a technical/hacker style, giving the feel of a terminal or analytical system.   
+
+---
+
+🐞 Report Issues   
+
+If you encounter any bugs or problems, contact me at:   
+📧 lasgotaofc@gmail.com   
+
+---
+
+👨‍💻 Author   
+
+Developed by Lasgota   
+
+GitHub: @LasgotaOFC
+YouTube: @LasgotaOFC
