@@ -9,9 +9,7 @@ A decision simulator inspired by the classic “Magic 8 Ball” with hacker-styl
 How to Use   
 
 When the program starts, type your question and press Enter.   
-The system will process your input and provide a random response instantly.   
-
-Responses are generated with a technical/hacker style, giving the feel of a terminal or analytical system.   
+The system will process your input and provide a random response instantly.      
 
 ---
 
